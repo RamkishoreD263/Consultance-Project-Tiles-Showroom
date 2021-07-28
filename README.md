@@ -2,4 +2,4 @@
 
 # JAI THINDAL TILES 
 
-link : jaithindal.rf.gd/?i=1
+link : http://jaithindal.rf.gd/?i=1
